@@ -1,0 +1,2 @@
+no_list=[x*x for x in range[20]]
+print(no_list)

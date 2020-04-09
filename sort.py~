@@ -1,0 +1,4 @@
+t=["king"]
+t.sort(reverse=True)
+print(t)
+

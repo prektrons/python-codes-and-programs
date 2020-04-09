@@ -1,0 +1,24 @@
+x = 5
+ y = 4
+ 
+print('x + y =',x+y)
+   
+print('x - y =',x-y)
+    
+print('x * y =',x*y)
+    
+print('x / y =',x/y)
+   
+print('x // y =',x//y)
+print('x ** y =',x**y)
+print('x > y  is',x>y)
+    # Output: x < y is True
+  print('x < y  is',x<y)
+# Output: x == y is False
+ print('x == y is',x==y)
+ # Output: x != y is True
+  print('x != y is',x!=y)
+  # Output: x >= y is False
+ print('x >= y is',x>=y)
+  # Output: x <= y is True
+print('x <= y is',x<=y)
